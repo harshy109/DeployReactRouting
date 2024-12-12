@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DeployReactRouting/static/css/main.7a3d4975.css",
+    "main.js": "/DeployReactRouting/static/js/main.06f48cd3.js",
+    "static/media/logo.svg": "/DeployReactRouting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DeployReactRouting/index.html",
+    "main.7a3d4975.css.map": "/DeployReactRouting/static/css/main.7a3d4975.css.map",
+    "main.06f48cd3.js.map": "/DeployReactRouting/static/js/main.06f48cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3d4975.css",
+    "static/js/main.06f48cd3.js"
+  ]
+}
